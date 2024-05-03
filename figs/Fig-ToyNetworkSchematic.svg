@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="544px" height="332px" viewBox="0 0 544 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#979797" stroke-width="2" fill-opacity="0.1" fill="#000000" x="73" y="41" width="411" height="284"></rect>
+        <circle id="Oval" fill="#32C5FF" cx="131" cy="239" r="18"></circle>
+        <circle id="Oval" fill="#32C5FF" cx="226" cy="239" r="18"></circle>
+        <circle id="Oval" fill="#32C5FF" cx="292" cy="296" r="18"></circle>
+        <circle id="Oval" fill="#32C5FF" cx="357" cy="239" r="18"></circle>
+        <circle id="Oval" fill="#32C5FF" cx="292" cy="175" r="18"></circle>
+        <circle id="Oval" fill="#32C5FF" cx="421" cy="175" r="18"></circle>
+        <circle id="Oval" fill="#32C5FF" cx="131" cy="68" r="18"></circle>
+        <circle id="Oval" fill="#32C5FF" cx="131" cy="154" r="18"></circle>
+        <text id="1" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="125" y="75">1</tspan>
+        </text>
+        <text id="1" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="125" y="75">1</tspan>
+        </text>
+        <text id="4" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="220" y="246">4</tspan>
+        </text>
+        <text id="6" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="286" y="303">6</tspan>
+        </text>
+        <text id="7" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="351" y="246">7</tspan>
+        </text>
+        <text id="5" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="286" y="182">5</tspan>
+        </text>
+        <text id="8" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="415" y="182">8</tspan>
+        </text>
+        <text id="3" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="125" y="246">3</tspan>
+        </text>
+        <text id="2" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="125" y="161">2</tspan>
+        </text>
+        <path id="Line" d="M132,93 L132,126.091 L135.564212,119.754869 L135.809343,119.319082 L136.680918,119.809343 L136.435788,120.245131 L131.935788,128.245131 L131.5,129.019864 L131.064212,128.245131 L126.564212,120.245131 L126.319082,119.809343 L127.190657,119.319082 L127.435788,119.754869 L131,126.091 L131,93 L132,93 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M131.5,177.5 L131.5,210.591 L135.064212,204.254869 L135.309343,203.819082 L136.180918,204.309343 L135.935788,204.745131 L131.435788,212.745131 L131,213.519864 L130.564212,212.745131 L126.064212,204.745131 L125.819082,204.309343 L126.690657,203.819082 L126.935788,204.254869 L130.5,210.591 L130.5,177.5 L131.5,177.5 Z" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M178.5,219.980136 L178.935788,220.754869 L183.435788,228.754869 L183.680918,229.190657 L182.809343,229.680918 L182.564212,229.245131 L179,222.908 L179,256 L178,256 L178,222.908 L174.435788,229.245131 L174.190657,229.680918 L173.319082,229.190657 L173.564212,228.754869 L178.064212,220.754869 L178.5,219.980136 Z" transform="translate(178.5, 238.5) scale(-1, 1) rotate(-90) translate(-178.5, -238.5)" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M356.75,138.730136 L357.185788,139.504869 L361.685788,147.504869 L361.930918,147.940657 L361.059343,148.430918 L360.814212,147.995131 L357.25,141.658 L357.25,208.341 L360.814212,202.004869 L361.059343,201.569082 L361.930918,202.059343 L361.685788,202.495131 L357.185788,210.495131 L356.75,211.269864 L356.314212,210.495131 L351.814212,202.495131 L351.569082,202.059343 L352.440657,201.569082 L352.685788,202.004869 L356.25,208.341 L356.25,141.658 L352.685788,147.995131 L352.440657,148.430918 L351.569082,147.940657 L351.814212,147.504869 L356.314212,139.504869 L356.75,138.730136 Z" transform="translate(356.75, 175) scale(-1, 1) rotate(-90) translate(-356.75, -175)" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M56.5,193.480136 L56.9357878,194.254869 L61.4357878,202.254869 L61.6809184,202.690657 L60.8093429,203.180918 L60.5642122,202.745131 L57,196.408 L57,281.589 L60.5642122,275.254869 L60.8093429,274.819082 L61.6809184,275.309343 L61.4357878,275.745131 L56.9357878,283.745131 L56.5,284.519864 L56.0642122,283.745131 L51.5642122,275.745131 L51.3190816,275.309343 L52.1906571,274.819082 L52.4357878,275.254869 L56,281.593 L56,196.408 L52.4357878,202.745131 L52.1906571,203.180918 L51.3190816,202.690657 L51.5642122,202.254869 L56.0642122,194.254869 L56.5,193.480136 Z" transform="translate(56.5, 239) scale(-1, 1) rotate(-90) translate(-56.5, -239)" fill="#E02020" fill-rule="nonzero"></path>
+        <path id="Line" d="M493.5,128.980136 L493.935788,129.754869 L498.435788,137.754869 L498.680918,138.190657 L497.809343,138.680918 L497.564212,138.245131 L494,131.908 L494,217.091 L497.564212,210.754869 L497.809343,210.319082 L498.680918,210.809343 L498.435788,211.245131 L493.935788,219.245131 L493.5,220.019864 L493.064212,219.245131 L488.564212,211.245131 L488.319082,210.809343 L489.190657,210.319082 L489.435788,210.754869 L493,217.091 L493,131.908 L489.435788,138.245131 L489.190657,138.680918 L488.319082,138.190657 L488.564212,137.754869 L493.064212,129.754869 L493.5,128.980136 Z" transform="translate(493.5, 174.5) scale(-1, 1) rotate(-90) translate(-493.5, -174.5)" fill="#E02020" fill-rule="nonzero"></path>
+        <path id="Line" d="M56.5,22.4801356 L56.9357878,23.2548694 L61.4357878,31.2548694 L61.6809184,31.6906571 L60.8093429,32.1809184 L60.5642122,31.7451306 L57,25.408 L57,110.591 L60.5642122,104.254869 L60.8093429,103.819082 L61.6809184,104.309343 L61.4357878,104.745131 L56.9357878,112.745131 L56.5,113.519864 L56.0642122,112.745131 L51.5642122,104.745131 L51.3190816,104.309343 L52.1906571,103.819082 L52.4357878,104.254869 L56,110.591 L56,25.408 L52.4357878,31.7451306 L52.1906571,32.1809184 L51.3190816,31.6906571 L51.5642122,31.2548694 L56.0642122,23.2548694 L56.5,22.4801356 Z" transform="translate(56.5, 68) scale(-1, 1) rotate(-90) translate(-56.5, -68)" fill="#E02020" fill-rule="nonzero"></path>
+        <path id="Line" d="M262,188.480136 L262.435788,189.254869 L266.935788,197.254869 L267.180918,197.690657 L266.309343,198.180918 L266.064212,197.745131 L262.5,191.408 L262.5,224.5 L261.5,224.5 L261.5,191.408 L257.935788,197.745131 L257.690657,198.180918 L256.819082,197.690657 L257.064212,197.254869 L261.564212,189.254869 L262,188.480136 Z" transform="translate(262, 207) scale(-1, 1) rotate(-45) translate(-262, -207)" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M324.292893,250.773029 L324.728681,251.547763 L329.228681,259.547763 L329.473812,259.98355 L328.602236,260.473812 L328.357105,260.038024 L324.792,253.699 L324.792,284.886 L328.357105,278.547763 L328.602236,278.111975 L329.473812,278.602236 L329.228681,279.038024 L324.728681,287.038024 L324.292893,287.812758 L323.857105,287.038024 L319.357105,279.038024 L319.111975,278.602236 L319.98355,278.111975 L320.228681,278.547763 L323.792,284.882 L323.792,253.703 L320.228681,260.038024 L319.98355,260.473812 L319.111975,259.98355 L319.357105,259.547763 L323.857105,251.547763 L324.292893,250.773029 Z" transform="translate(324.2929, 269.2929) scale(-1, 1) rotate(-45) translate(-324.2929, -269.2929)" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M256.292893,250.773029 L256.728681,251.547763 L261.228681,259.547763 L261.473812,259.98355 L260.602236,260.473812 L260.357105,260.038024 L256.792,253.699 L256.792,284.886 L260.357105,278.547763 L260.602236,278.111975 L261.473812,278.602236 L261.228681,279.038024 L256.728681,287.038024 L256.292893,287.812758 L255.857105,287.038024 L251.357105,279.038024 L251.111975,278.602236 L251.98355,278.111975 L252.228681,278.547763 L255.792,284.882 L255.792,253.703 L252.228681,260.038024 L251.98355,260.473812 L251.111975,259.98355 L251.357105,259.547763 L255.857105,251.547763 L256.292893,250.773029 Z" transform="translate(256.2929, 269.2929) scale(-1, -1) rotate(-45) translate(-256.2929, -269.2929)" fill="#979797" fill-rule="nonzero"></path>
+        <path id="Line" d="M326.585786,188.065922 L327.021574,188.840656 L331.521574,196.840656 L331.766705,197.276444 L330.895129,197.766705 L330.649999,197.330917 L327.085,190.994 L327.085,222.176 L330.649999,215.840656 L330.895129,215.404868 L331.766705,215.895129 L331.521574,216.330917 L327.021574,224.330917 L326.585786,225.105651 L326.149999,224.330917 L321.649999,216.330917 L321.404868,215.895129 L322.276444,215.404868 L322.521574,215.840656 L326.085,222.176 L326.085,190.994 L322.521574,197.330917 L322.276444,197.766705 L321.404868,197.276444 L321.649999,196.840656 L326.149999,188.840656 L326.585786,188.065922 Z" transform="translate(326.5858, 206.5858) scale(-1, -1) rotate(-45) translate(-326.5858, -206.5858)" fill="#979797" fill-rule="nonzero"></path>
+        <text id="Logical-(or-physical" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
+            <tspan x="199" y="29">Logical (or physical) boundary </tspan>
+        </text>
+        <text id="E1" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#E02020">
+            <tspan x="42" y="59">E1</tspan>
+        </text>
+        <text id="E2" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#E02020">
+            <tspan x="42" y="230">E2</tspan>
+        </text>
+        <text id="E3" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#E02020">
+            <tspan x="505" y="163">E3</tspan>
+        </text>
+        <text id="Steady-state-in-the" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="309" y="64">Steady-state in the box</tspan>
+        </text>
+        <text id="R1" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="148" y="113">R1</tspan>
+        </text>
+        <text id="R2" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="143" y="201">R2</tspan>
+        </text>
+        <text id="R3" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="166" y="265">R3</tspan>
+        </text>
+        <text id="R4" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="234" y="202">R4</tspan>
+        </text>
+        <text id="R6" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="351" y="163">R6</tspan>
+        </text>
+        <text id="R5" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="234" y="299">R5</tspan>
+        </text>
+        <text id="R7" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="324" y="299">R7</tspan>
+        </text>
+        <text id="R8" font-family="Helvetica-Light, Helvetica" font-size="16" font-weight="300" fill="#000000">
+            <tspan x="334" y="202">R8</tspan>
+        </text>
+    </g>
+</svg>

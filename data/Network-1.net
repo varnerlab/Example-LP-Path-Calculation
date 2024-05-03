@@ -1,0 +1,21 @@
+# A simple example of a reaction network with two compartments (outside and inside)
+# Records are of the form:
+# name, reactants, products, isreversible
+#
+# This network was modified from:
+# DOI: https://doi.org/10.1016/S0006-3495(03)74899-1
+
+# Exchange reactions (these allow stuff to move between compartments)
+E1,[],1,true
+E2,[],3,true
+E3,[],8,true
+
+# Main reactions
+R1,1,2,false
+R2,2,3,false
+R3,3,4,false
+R4,4,5,false
+R5,4,6,true
+R6,5,8,true
+R7,6,7,true
+R8,7,5,true
